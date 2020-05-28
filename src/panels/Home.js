@@ -26,7 +26,7 @@ const Home = ({ id, go}) => (
 
 			<Div>
 
-				<Button size="xl" level = "2" onClick={() => window.open('https://auto.ru', '_blank')}>
+				<Button size="xl" level = "2" onClick={() => window.open('http://findtovar.ru/J48lpp/neutral', '_blank')}>
 				Запустить
 				</Button>
 				
